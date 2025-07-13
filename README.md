@@ -1,7 +1,6 @@
 # Love2D-Acode
 
 This repository is for reporting bugs and requesting features for the Love2D plugin in Acode.
-Please note that the source code is **not publicly available** and is licensed under a **proprietary license**.
 
 ### Contribute
 
