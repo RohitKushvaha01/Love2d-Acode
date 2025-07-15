@@ -1,5 +1,4 @@
 -- love.load is called once at the beginning when the game starts
--- 'arg' contains command line arguments (if any)
 function love.load(arg)
     -- You can initialize variables, load images, sounds, etc. here
 end
